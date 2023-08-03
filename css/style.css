@@ -1,0 +1,12 @@
+/* this is how a css comment looks */
+h1 {
+  color: aqua;
+}
+h2 {
+  background-color: brown;
+}
+
+#test {
+  text-align: center;
+  font-size: 35px;
+}
